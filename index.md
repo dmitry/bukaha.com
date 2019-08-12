@@ -3,12 +3,13 @@
 ### Server-side
 
 - Ruby on Rails
-- node.js
+- Node.js
 
 ### Client-side
 
-- vue.js
-- react.js
+- Vue.js
+- React
+- Apollo GraphQL
 
 ### Databases
 
@@ -17,6 +18,7 @@
 - Redis
 - Elasticsearch
 - SQLite
+- memcached
 
 ### Github
 
