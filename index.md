@@ -2,15 +2,15 @@
 
 ### Server-side
 
-- Ruby on Rails
-- Node.js
+- [Ruby on Rails](https://rubyonrails.org/)
+- [Node.js](https://nodejs.org/en/)
 
 ### Client-side
 
-- Vue.js
-- Quasar
-- React
-- Apollo GraphQL
+- [Vue.js](https://vuejs.org/)
+- [Quasar framework](https://quasar.dev/)
+- [React](https://reactjs.org/)
+- [Apollo GraphQL](https://www.apollographql.com/docs/react/)
 
 ### Databases
 
