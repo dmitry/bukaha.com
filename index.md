@@ -24,4 +24,3 @@
 ### Github
 
 - [github.com/dmitry](http://github.com/dmitry)
-- [github.com/bukaha](http://github.com/bukaha)
