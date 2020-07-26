@@ -1,4 +1,4 @@
-**Bukaha OÜ is software engineering company working with powerful tools to accomplish required specifications of the client needs.**
+**Bukaha OÜ is a software engineering company working with powerful tools to accomplish required specifications of the client needs.**
 
 ### Server-side
 
@@ -8,6 +8,7 @@
 ### Client-side
 
 - Vue.js
+- Quasar
 - React
 - Apollo GraphQL
 
