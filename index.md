@@ -15,7 +15,7 @@
 ### Databases
 
 - [MySQL](https://dev.mysql.com/doc/)
-- [PostgreSQL](https://www.postgresql.org/docs/13/index.html]
+- [PostgreSQL](https://www.postgresql.org/docs/13/index.html)
 - [Redis](https://redis.io/documentation)
 - [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 - [SQLite](https://sqlite.org/docs.html)
