@@ -1,4 +1,4 @@
-**Bukaha OÜ is a software engineering company working with powerful tools to accomplish required specifications of the client needs.**
+**Bukaha OÜ is a software engineering company working with powerful tools to accomplish the required specifications of the client's needs.**
 
 ### Server-side
 
@@ -7,19 +7,24 @@
 
 ### Client-side
 
-- [Vue.js](https://vuejs.org/)
-- [Quasar framework](https://quasar.dev/)
-- [React](https://reactjs.org/)
+- [Vue.js](https://v3.vuejs.org/guide/)
+- [Quasar framework](https://quasar.dev/introduction-to-quasar)
+- [React](https://reactjs.org/docs/react-api.html)
 - [Apollo GraphQL](https://www.apollographql.com/docs/react/)
 
 ### Databases
 
-- MySQL
-- PostgreSQL
-- Redis
-- Elasticsearch
-- SQLite
-- memcached
+- [MySQL](https://dev.mysql.com/doc/)
+- [PostgreSQL](https://www.postgresql.org/docs/13/index.html]
+- [Redis](https://redis.io/documentation)
+- [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+- [SQLite](https://sqlite.org/docs.html)
+- [memcached](https://github.com/memcached/memcached/wiki)
+
+### Testing
+
+- [RSpec](https://relishapp.com/rspec)
+- [Cypress](https://docs.cypress.io/)
 
 ### Github
 
