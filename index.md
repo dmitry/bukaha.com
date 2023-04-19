@@ -1,4 +1,4 @@
-**Bukaha OÜ is a software engineering company working with powerful tools to accomplish the required specifications of the client's needs.**
+**Using robust tools, Bukaha OÜ company develops custom software that meets the needs and requirements of our clients.**
 
 ### Server-side
 
