@@ -1,4 +1,4 @@
-**Using robust tools, Bukaha OÜ company develops custom software that meets the needs and requirements of our clients.**
+**As a solo developer, Bukaha OÜ specializes in creating personalized software solutions. Equipped with robust tools. I work closely with clients to develop custom software that precisely aligns with their specific needs and requirements. Delivering innovative and reliable solutions that empower businesses and drive their success.**
 
 ### Server-side
 
