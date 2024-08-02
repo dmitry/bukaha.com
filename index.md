@@ -1,4 +1,4 @@
-**As a solo developer, Bukaha OÜ specializes in creating personalized software solutions. Equipped with robust tools. I work closely with clients to develop custom software that precisely aligns with their specific needs and requirements. Delivering innovative and reliable solutions that empower businesses and drive their success.**
+**I run Bukaha OÜ, a one-person software company. I'm a full-stack developer who's best at backend work, but I can also handle DevOps, frontend, UX, and UI. I work directly with clients to build software that solves their problems. My goal is to make useful tools that help businesses grow.**
 
 ### Server-side
 
